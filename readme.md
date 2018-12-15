@@ -8,10 +8,18 @@
 *
 
 
+### FIRST TASK
+* person1 - in index.html, add input field with button that will update the page to display members of your group. Make a commit.
+* person2 - in index.html, add an h1 that says "This is Gitflow Practice" Make a commit.
+* person3 - in index.html, add a <ul> list of types of dogs.
 
 
+### SECOND TASK
+* person1 - in index.html, and a <p> with some text of your choice.
+* person2 - in index.html, add an <h2> with the text "Group Mates". add an <ul> with all the names of the people in your group.
+* person3 - in index.html, add a <ul> with a list of movie titles.
 
-
+	
 ## add'l resources for practicing git and git flow:
 * https://github.com/jlord/git-it-electron#what-to-install
 * https://www.atlassian.com/git/tutorials/comparing-workflows

@@ -2,9 +2,9 @@
 <!-- Created by [Alyssa Graham](https://github.com/agraham0925) and [Marie Trull](https://github.com/marietrull) to help web development students practice the gitflow process in a team setting. -->
 
 ## FIRST TASK
-* person1 - in index.html, add input field with button that will update the page to display members of your group. Make a commit.
-* person2 - in index.html, add an h1 that says "This is Gitflow Practice" Make a commit.
-* person3 - in index.html, add a ul tag list of types of dogs.
+* person1 - in index.html on line 8, add input field with button that will update the page to display members of your group. Make a commit.
+* person2 - in index.html on line 8, add an h1 that says "This is Gitflow Practice" Make a commit.
+* person3 - in index.html on line 8, add a ul tag list of types of dogs.
 
 
 ## SECOND TASK

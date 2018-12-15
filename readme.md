@@ -8,7 +8,7 @@
 
 
 ## SECOND TASK
-* person1 - in index.html, and a p tag with some text of your choice.
+* person1 - in index.html, add a p tag with some text of your choice.
 * person2 - in index.html, add an h2 tag with the text "Group Mates". add an ul tag with all the names of the people in your group.
 * person3 - in index.html, add a ul with a list of movie titles.
 

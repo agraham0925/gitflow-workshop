@@ -15,8 +15,9 @@
 ## GIT FLOW + COMMON COMMANDS
 ### Create Branch
 * git branch
-* git branch [branchname]
+* git branch [branchname] 
 * git checkout [branchname]
+* OR instead of the two separate commands, you can do git checkout -b [branchname]
 
 ### Complete Task + Commit 
 * git status
@@ -35,12 +36,12 @@
 
 ### Pull Changes
 **For everyone who did needs the newest changes** 
-* commit changes on your local branch
+* commit changes on your local branch (see Complete Task + Commit)
 * git checkout master
-* git branch
+* git branch (ALWAYS do this to confirm which branch you're on!)
 * git pull
 * git checkout [branchname]
-* git branch
+* git branch (ALWAYS do this to confirm which branch you're on!)
 * git merge master
 * resolve merge conflicts + repeat
 

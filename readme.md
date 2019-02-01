@@ -26,7 +26,7 @@
 * git commit -m "Commit Message"
 
 ### Push to Remote
-* git push -u [branchname]
+* git push -u origin [branchname]
 
 ### Pull Request
 * Go to GitHub and click on branches

@@ -15,19 +15,19 @@
 
 ## GIT FLOW + COMMON COMMANDS
 ### Create Branch
-* git branch
-* git branch [branchname] 
-* git checkout [branchname]
-* OR instead of the two separate commands, you can do git checkout -b [branchname]
+* `git branch`
+* `git branch [branchname]`
+* `git checkout [branchname]`
+* OR instead of the two separate commands, you can do `git checkout -b [branchname]`
 
 ### Complete Task + Commit 
-* git status
-* git add . OR git add -A
-* git status
-* git commit -m "Commit Message"
+* `git status`
+* `git add .` OR `git add -A`
+* `git status`
+* `git commit -m "Commit Message"`
 
 ### Push to Remote
-* git push -u origin [branchname]
+* `git push -u origin [branchname]`
 
 ### Pull Request
 * Go to GitHub and click on branches
@@ -38,12 +38,12 @@
 ### Pull the Updated Remote Master & Get the Changes onto Your Branch
 **For everyone else in your team who needs the updated Master** 
 * commit changes on your local branch (see Complete Task + Commit)
-* git checkout master
-* git branch (ALWAYS do this to confirm which branch you're on!)
-* git pull
-* git checkout [branchname]
-* git branch (ALWAYS do this to confirm which branch you're on!)
-* git merge master
+* `git checkout master`
+* `git branch` (ALWAYS do this to confirm which branch you're on!)
+* `git pull`
+* `git checkout [branchname]`
+* `git branch` (ALWAYS do this to confirm which branch you're on!)
+* `git merge master`
 * resolve merge conflicts + repeat
 
 ### add'l resources for practicing git and git flow:

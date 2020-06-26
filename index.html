@@ -5,6 +5,18 @@
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
+
+	<input type="button" onclick="myFunction()" id="myBtn" name="myname" value="Try it">
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+    var x = document.getElementById("myBtn").name;
+    document.getElementById("demo").innerHTML = x;
+}
+</script>
+
 	<p>Poopy-di scoop<br>
 		Scoop-diddy-whoop<br>
 		Whoop-di-scoop-di-poop<br>
@@ -16,5 +28,6 @@
 		Scoop-diddy-whoop<br>
 		Whoop-diddy-scoop<br>
 		Whoop-diddy-scoop, poop</p>
+
 </body>
 </html>
